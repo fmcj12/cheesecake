@@ -8,6 +8,14 @@ body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #939; /*Changed the jumbotron color from grey to purple*/
+}
+
 .navbar-fixed-top .nav {
     padding: 15px 0;
 }
