@@ -20,6 +20,10 @@ body {
     padding: 15px 0;
 }
 
+.navbar-inverse {
+    background-color: #939; /*Changed the navbar-inverse background-color from black to purple*/
+}
+
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
