@@ -24,6 +24,10 @@ body {
     background-color: #939; /*Changed the navbar-inverse background-color from black to purple*/
 }
 
+.navbar-inverse .navbar-nav .navbar-toggle> li a{
+    color: #f00; /*Changed the navbar-inverse background-color from black to purple*/
+}
+
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
