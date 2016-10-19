@@ -21,19 +21,11 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #939; /*Changed the navbar-inverse background-color from black to purple*/
+    background-color: #939; /*Changed the navbar-inverse background color from black to purple*/
 }
 
-.navbar-inverse li a{
-    display: block;
-    text-decoration: none;
+.navbar-inverse .navbar-nav > li > a {
     color: #f00; /*Changed the navbar-inverse font color from grey to red*/
-}
-
-.navbar-inverse li a:hover {
-    text-decoration: none;
-    color: #000; /*Changed the hover font color from white to black*/
-    background: rgba(255,255,255,0.2);
 }
 
 .navbar-fixed-top .navbar-brand {
