@@ -16,6 +16,7 @@
 
     <!-- Custom CSS -->
     <link href="css/logo-nav.css" rel="stylesheet">
+<link rel="stylesheet" href="font-awesome-4.6.3/css/font-awesome.min.css"><!--Added this link for font-awesome-->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -23,6 +24,16 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+     <!-- Added the carousel inner tag effect child elements -->
+    <style>
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            width: 70%;
+            margin: auto;
+            background: #260d26;
+        }
+    </style> <!--Changed the background color to purple-->
 
 </head>
 
@@ -62,13 +73,25 @@
                     <li>
                         <a href="contact.html">Contact</a> <!--Added contact.html-->
                     </li>
+                    <li>
+                        <a href="#"><i class="fa fa-2x fa-facebook-square"></i></a> <!--Added this facebook font-awesome-->
+                   </li>
+                    <li>
+                        <a href="#"><i class="fa fa-2x fa-twitter-square"></i></a> <!--Added this twitter font-awesome-->
+                   </li>
+                    <li>
+                        <a href="#"><i class="fa fa-2x fa-pinterest"></i></a> <!--Added this pinterest font-awesome-->
+                   </li>
+                    <li>
+                        <a href="#"><i class="fa fa-2x fa-youtube-square"></i></a> <!--Added this youtube font-awesome-->
+                   </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
     </nav>
-
+    
     <!-- Page Content -->
     <div id="page-content-wrapper">
             <div class="container-fluid"> <!--Only need one container because it controls everything-->
