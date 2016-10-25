@@ -64,6 +64,8 @@
                     <li>
                         <a href="contact.html">Contact</a> <!--Added contact.html-->
                     </li>
+                     </ul>
+              <ul class="nav navbar-nav navbar-right"> <!--Added navbar-right to unordered list-->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
