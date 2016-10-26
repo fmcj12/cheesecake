@@ -21,25 +21,25 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #939; /*Changed the navbar-inverse background color from black to purple*/
+    background-color:#939; /*Changed the navbar-inverse background color from black to purple*/
 }
 
 .btn {
-    background: #939; /*Changed the button class background color from black to purple*/
-    color:#fff /*Changed the font color to button white*/
+    background:#939; /*Changed the button class background color from black to purple*/
+    color:#fff; /*Changed the font color to button white*/
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #f00; /*Changed the navbar-inverse font color from grey to red*/
+    color:#f00; /*Changed the navbar-inverse font color from grey to red*/
 }
 
 .navbar-inverse .navbar-nav > li > a:active {
-    background: #939;
-    color: #f00; /*Changed the background color of the box over the HOME button red*/
+    background:#939;
+    color:#f00; /*Changed the background color of the box over the HOME button red*/
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
-    color: #000; /*Changed the hover font color from white to black*/
+    color:#000; /*Changed the hover font color from white to black*/
 }
 
 .navbar-fixed-top .navbar-brand {
@@ -58,7 +58,7 @@ background-color:#939;
 
 .gallery h4{
     background:#939;
-    color: #f9ecf9;
+    color:#f9ecf9;
     text-align:center;
 }
 
