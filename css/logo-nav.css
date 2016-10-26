@@ -52,7 +52,6 @@ background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
 .gallery {
-    float:left;
     border: 1px solid #939;
 }
 
