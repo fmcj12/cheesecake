@@ -52,8 +52,7 @@ background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
 .gallery {
-    padding: 1px;
-    border: 1px solid #939;
+    border:solid #939;
 }
 
 .gallery h4{
