@@ -53,7 +53,6 @@ background-color:#939;
 
 .gallery {
     float:left;
-    margin:10px;
     padding:5px;
     width: 325px;
     height: 270px;
@@ -63,7 +62,6 @@ background-color:#939;
 .gallery h4{
     background:#939;
     color:#f9ecf9;
-    text-align:center;
 }
 
 p.list-group-item-text {
