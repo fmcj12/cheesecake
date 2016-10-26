@@ -61,10 +61,8 @@ background-color:#939
 
 .gallery h4{
     background:#939;
-    color: #fff;
-    font-weight:bolder;
+    color: #f00;
     font-family: arial;
-    text-align: center;
 }
 
 p.list-group-item-text {
