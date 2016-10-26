@@ -23,9 +23,18 @@ body {
 .navbar-inverse {
     background-color: #939; /*Changed the navbar-inverse background color from black to purple*/
 }
+.btn {
+    background: #939; /*Changed the button class background color from black to purple*/
+    color:#fff /*Changed the font color to button white*/
+}
 
 .navbar-inverse .navbar-nav > li > a {
     color: #f00; /*Changed the navbar-inverse font color from grey to red*/
+}
+
+.navbar-inverse .navbar-nav > li > a:active {
+    background: #939;
+    color: #f00; /*Changed the background color of the box HOME button red*/
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
