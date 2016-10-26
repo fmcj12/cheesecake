@@ -39,6 +39,7 @@ body {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
+    background:#939;
     color:#000; /*Changed the hover font color from white to black*/
 }
 
