@@ -52,17 +52,16 @@ background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
 .gallery {
-    float:left;
-    padding: 5px;
-    width: 305px;
-    height: 250px;
+    padding: 1px;
+    width: 325px;
+    height: 270px;
     border: 1px solid #939;
 }
 
 .gallery h4{
     background:#939;
     color: #f9ecf9;
-    font-family: arial;
+    text-align:center;
 }
 
 p.list-group-item-text {
