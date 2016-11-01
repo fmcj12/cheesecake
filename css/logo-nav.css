@@ -59,6 +59,10 @@ background-color:#939;
     text-align:center;
 }
 
+p.list-group-item active {
+    background-color: #939;
+}
+
 p.list-group-item-text {
     padding-left: 5px;
 }
