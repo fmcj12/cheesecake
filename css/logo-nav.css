@@ -17,7 +17,7 @@ body {
 }
 
 .navbar-fixed-top .nav {
-    padding: 25px 0;
+    padding: 15px 0;
 }
 
 .navbar-inverse {
@@ -26,28 +26,32 @@ body {
 
 .btn {
     background:#939; /*Changed the button class background color from black to purple*/
-    color:#fff; /*Changed the font color to button white*/
+    color:#ff0; /*Changed the font color to button yellow*/
 }
 
 .navbar-inverse .navbar-nav > li > a {
     color:#ff0; /*Changed the navbar-inverse font color from red to yellow*/
 }
 
-.navbar-inverse .navbar-nav > li > a:active {
+.navbar-inverse .navbar-nav > active > a {
     background:#939;
     color:#ff0; /*Changed the background color of the box over the HOME button yellow*/
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
     background:#939;
-    color:#000; /*Changed the hover font color from white to black*/
+    color:#fff; /*Changed the hover font color from black to white*/
 }
 
 .navbar-fixed-top .navbar-brand {
-    padding: 0 25px;
+    padding: 0 15px;
 }
 
-hr{ 
+.navbar-brand img {
+border: 2px solid #fff; 
+}
+
+hr { 
 height:2px;
 background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
@@ -55,13 +59,16 @@ background-color:#939;
 
 .gallery h4{
     background:#939;
-    color:#f9ecf9;
+    color:#ff0;
     text-align:center;
 }
 
-p.list-group-item active {
-    background-color: #939;
+.gallery{ 
+    width:305px;
+    height:250px;
+    border: 2px solid #fff;
 }
+
 
 p.list-group-item-text {
     padding-left: 5px;
@@ -73,6 +80,6 @@ p.list-group-item-text {
     }
 
     .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
+        padding: 2px 25px;
     }
 }
