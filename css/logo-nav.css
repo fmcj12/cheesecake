@@ -17,7 +17,7 @@ body {
 }
 
 .navbar-fixed-top .nav {
-    padding: 15px 0;
+    padding: 25px 0;
 }
 
 .navbar-inverse {
@@ -30,12 +30,12 @@ body {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color:#f00; /*Changed the navbar-inverse font color from grey to red*/
+    color:#ff0; /*Changed the navbar-inverse font color from red to yellow*/
 }
 
 .navbar-inverse .navbar-nav > li > a:active {
     background:#939;
-    color:#f00; /*Changed the background color of the box over the HOME button red*/
+    color:#ff0; /*Changed the background color of the box over the HOME button yellow*/
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
@@ -44,7 +44,7 @@ body {
 }
 
 .navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
+    padding: 0 25px;
 }
 
 hr{ 
