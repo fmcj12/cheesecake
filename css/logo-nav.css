@@ -74,13 +74,14 @@ p.list-group-item-text {
     padding-left: 5px;
 }
 
-.list-group-item-heading h4{
+.panel-heading + .list-group .list-group-item-heading h4{
     background-color: #ff9;   
 }
 
-h4.list-group-item-heading {
+.panel-heading + .list-group .list-group-item:first-child{
     background: #ff9;   
 }
+
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
