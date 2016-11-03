@@ -78,9 +78,6 @@ p.list-group-item-text {
     background-color: #ff9;   
 }
 
-.panel-heading + .list-group .list-group-item:first-child{
-    background: #ff9;   
-}
 
 @media(min-width:768px) {
     body {
