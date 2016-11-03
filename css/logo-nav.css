@@ -77,6 +77,10 @@ p.list-group-item-text {
 .list-group-item-heading h4{
     background-color: #ff9;   
 }
+
+h4.list-group-item-heading {
+    background: #ff9;   
+}
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
