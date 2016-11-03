@@ -75,7 +75,7 @@ p.list-group-item-text {
 }
 
 .list-group-item-heading h4{
-    background: #ff9;   
+    background-color: #ff9;   
 }
 @media(min-width:768px) {
     body {
