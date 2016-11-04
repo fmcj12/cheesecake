@@ -74,8 +74,9 @@ p.list-group-item-text {
     padding-left: 5px;
 }
 
-.list-group-item active h4{
-    background: #ff0;   
+.list-group-item > active{
+    background: #ff0; 
+    border: 2px solid #ff0;
 }
 
 
