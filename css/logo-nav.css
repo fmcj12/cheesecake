@@ -66,6 +66,7 @@ background-color:#939;
 .cheese h4{
     background:#939;
     color:#ff0;
+    font-weight:bolder;
     text-align:center;
 }
 
@@ -76,6 +77,11 @@ background-color:#939;
 }
 
 .cheese{ 
+    float:left;
+    margin:10px;
+    padding:5px;
+    width:305px;
+    height:250px;
     border: 2px solid #fff;
 }
 
