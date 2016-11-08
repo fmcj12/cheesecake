@@ -56,6 +56,12 @@ height:2px;
 background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
+h2 { 
+font-family: 'Open Sans', sans-serif;
+background-color:#939;
+} /*Changed the height which is the thickness to 2px and changed background-color purple*/
+
+
 
 .gallery h4{
     background:#939;
