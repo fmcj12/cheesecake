@@ -77,7 +77,7 @@ background-color:#939;
 
 .cheese{ 
     margin:5px;
-    padding:5px;
+    padding: 0 5px;
     width:205px;
     height:205px;
     border: 2px solid #fff;
