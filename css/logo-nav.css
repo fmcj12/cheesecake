@@ -66,7 +66,7 @@ background-color:#939;
 .cheese h4{
     background:#939;
     color:#ff0;
-    text-align:center;
+    text-align:left;
 }
 
 .gallery{ 
@@ -76,8 +76,6 @@ background-color:#939;
 }
 
 .cheese{ 
-    width:305px;
-    height:250px;
     border: 2px solid #fff;
 }
 
