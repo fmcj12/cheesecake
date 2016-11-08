@@ -57,26 +57,27 @@ background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
 .gallery h4{
-    background:#939;
-    color:#ff0;
-    text-align:center;
+    background: #939;
+    color: #ff0;
+    text-align: center;
 }
 
 .cheese h4{
-    background:#939;
-    color:#ff0;
-    text-align:left;
+    background: #939;
+    color: #ff0;
+    text-align: left;
 }
 
 .gallery{ 
-    width:305px;
-    height:250px;
+    width: 305px;
+    height: 250px;
     border: 2px solid #fff;
 }
 
 .cheese{ 
-    width:305px;
-    height:250px;
+    margin: auto;
+    width: 305px;
+    height: 250px;
     border: 2px solid #fff;
 }
 
