@@ -56,14 +56,6 @@ height:2px;
 background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
-h2 { 
-  font-family: 'Tangerine', serif;
-  font-size: 48px;
-  color:#c6c;
-} /*Changed font to Tangerine, increased the size of font and changed color purple*/
-
-
-
 .gallery h4{
     background:#939;
     color:#ff0;
