@@ -57,9 +57,11 @@ background-color:#939;
 } /*Changed the height which is the thickness to 2px and changed background-color purple*/
 
 h2 { 
-font-family: 'Open Sans', sans-serif;
-color:#939;
-} /*Changed font to Tangerine and changed color purple*/
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+  color:#c6c;
+} /*Changed font to Tangerine, increased the size of font and changed color purple*/
 
 
 
