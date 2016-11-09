@@ -74,15 +74,6 @@ background-color:#939;
     border: 2px solid #fff;
 }
 
-.cheese{ 
-    float:left;
-    padding-top: 20px; 
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-    width: 400px;
-    height: 400px;
-    border: 2px solid #fff;
-}
 
 p.list-group-item-text {
     padding-left: 5px;
