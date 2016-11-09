@@ -70,18 +70,11 @@ background-color:#939;
     text-shadow: 4px 4px 4px #f9ecf9;
 }
 
-/*.cheese h4{
-    background: #939;
-    color: #ff0;
-    text-align: left;
-}*/
-
 .gallery{ 
     width: 305px;
     height: 250px;
     border: 2px solid #fff;
 }
-
 
 p.list-group-item-text {
     padding-left: 5px;
