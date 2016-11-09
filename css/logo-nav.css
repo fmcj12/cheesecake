@@ -62,11 +62,20 @@ background-color:#939;
     text-align: center;
 }
 
-.cheese h4{
+.Tango {
+    color:#c6c; 
+    font-family:'Tangerine',cursive, serif, monospace; 
+    font-size:48px; 
+    font-weight:bolder; 
+    font-variant:small-caps;
+    text-shadow: 4px 4px 4px #f9ecf9;
+}
+
+/*.cheese h4{
     background: #939;
     color: #ff0;
     text-align: left;
-}
+}*/
 
 .gallery{ 
     width: 305px;
