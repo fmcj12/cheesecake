@@ -33,8 +33,8 @@ body {
     color:#ff0; /*Changed the navbar-inverse font color from red to yellow*/
 }
 
-.navbar-inverse .navbar-nav > active > a {
-    background:#939;
+.navbar-inverse .navbar-nav > li > a:active {
+    background:#f2d9f2;
     color:#ff0; /*Changed the background color of the box over the HOME button yellow*/
 }
 
