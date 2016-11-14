@@ -85,11 +85,6 @@ p.list-group-item-text {
     background: #ff0; 
 }
 
-.list-group {
-    border: 2px solid #fff;  /*Changed the border color to button white*/
-}
-
-
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
