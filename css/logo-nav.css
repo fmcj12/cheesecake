@@ -83,7 +83,10 @@ p.list-group-item-text {
 
 .list-group-item > active{
     background: #ff0; 
-    border: 2px solid #ff0;
+}
+
+.list-group-item-heading {
+    border: 2px solid #fff;  /*Changed the border color to button white*/
 }
 
 
