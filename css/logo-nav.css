@@ -27,6 +27,7 @@ body {
 .btn {
     background:#939; /*Changed the button class background color from black to purple*/
     color:#ff0; /*Changed the font color to button yellow*/
+    border: 2px solid #fff;  /*Changed the border color to button white*/
 }
 
 .navbar-inverse .navbar-nav > li > a {
